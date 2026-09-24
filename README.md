@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Asynchronous Activity 1: Student Early Warning Tool Using KNIME
 This repository contains the required output for Asynchronous Activity 1. The project uses KNIME to predict student risk status from academic performance data.
 
@@ -21,3 +22,7 @@ Arianne Beverly V. Marquez
 
 ## Course and Section
 CS0065 - AN41
+=======
+# Marquez-ArianneBeverly-CS0065-AN41
+Technical Assessment submissions for CS0065 - AN41
+>>>>>>> e061216b6be70da8e8fb19b9c31c80cac406e139
