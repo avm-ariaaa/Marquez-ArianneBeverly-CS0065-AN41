@@ -1,0 +1,101 @@
+MEAL ID,MEAL NAME,CALORIES (kcal),SUGAR (g),FAT (g),PROTEIN (g),SODIUM (mg),CATEGORY
+MID-1,Pork Sisig with Rice,850,2,55,30,950,HIGH-CALORIE
+MID-2,Beef Caldereta with Rice,720,6,35,35,1100,HIGH-CALORIE
+MID-3,Chicken Adobo with Rice,650,5,30,32,1200,HIGH-CALORIE
+MID-4,Pork Sinigang with Rice,680,4,40,28,1300,HIGH-CALORIE
+MID-5,Lechon Kawali with Rice,890,1,65,25,800,HIGH-CALORIE
+MID-6,"Bangus Silog (Fried Rice, Fried Bangus, & Egg)",550,2,25,30,750,BALANCED
+MID-7,"Tapsilong (Beef Tapa, Fried Rice, & Egg)",650,8,28,35,1050,HIGH-CALORIE
+MID-8,"Tocilog (Pork Tocino, Fried Rice & Egg)",700,25,25,25,850,HIGH-CALORIE
+MID-9,Longsilog (Longganisa. Fried Rice & Egg),750,15,45,22,1100,HIGH-CALORIE
+MID-10,Chicken Inasal with Rice,580,8,20,45,900,HIGH-CALORIE
+MID-11,Bicol Express with Rice,710,4,50,22,850,HIGH-CALORIE
+MID-12,Kare-kare with Rice,780,8,45,30,700,HIGH-CALORIE
+MID-13,Dinuguan with Puto,600,10,35,20,800,HIGH-CALORIE
+MID-14,Sweet and Sour Pork with Rice,730,22,30,20,900,HIGH-CALORIE
+MID-15,Fried Chicken (1pc) with Rice,520,0,25,22,750,BALANCED
+MID-16,Beef Gyudon (Japanese Beef Bowl),650,12,28,25,1200,HIGH-CALORIE
+MID-17,Pork Tonkatsu with Rice,780,4,40,28,950,HIGH-CALORIE
+MID-18,Chicken Teriyaki with Rice,600,18,15,35,1100,HIGH-CALORIE
+MID-19,Shawarma Rice,680,5,35,25,950,HIGH-CALORIE
+MID-20,Siomai Rice (4pcs Pork Siomai),550,3,25,18,850,HIGH-CALORIE
+MID-21,Pancit Canton (Traditional),450,5,20,12,1100,HIGH-CALORIE
+MID-22,Pancit Bihon,400,4,15,10,950,HIGH-CALORIE
+MID-23,Pancit Palabok,520,4,25,15,1200,HIGH-CALORIE
+MID-24,Filipino Style Sphagetti,550,18,20,15,1050,HIGH-CALORIE
+MID-25,Creany Carbonara,650,4,35,18,900,HIGH-CALORIE
+MID-26,Baked Macaroni,600,10,28,22,1000,HIGH-CALORIE
+MID-27,Arroz Caldo (Chicken Porridge),350,1,12,15,850,HIGH-CALORIE
+MID-28,Goto (Beef Tripe),380,1,14,18,900,HIGH-CALORIE
+MID-29,Champorado with Tuyo,450,25,10,8,650,HIGH-CALORIE
+MID-30,Sopas (Chicken Macaroni Soup),320,5,12,12,800,BALANCED
+MID-31,Cheeseburger,480,7,25,22,950,HIGH-CALORIE
+MID-32,Double Bacon Cheeseburger,750,9,45,40,1400,HIGH-CALORIE
+MID-33,Crispy Chicken Burger,550,6,28,20,1100,HIGH-CALORIE
+MID-34,Hotdog on a Bun,350,5,18,10,850,HIGH-CALORIE
+MID-35,Medium French Fries,380,0,18,4,400,BALANCED
+MID-36,Chicken Nuggets (6pcs),280,0,18,14,550,BALANCED
+MID-37,Pepperoni Pizza (1 slice),300,3,12,12,700,BALANCED
+MID-38,Cheese Pizza (1 slice),280,3,10,11,600,BALANCED
+MID-39,Meat Lovers Pizza (1 slice),400,4,20,16,950,HIGH-CALORIE
+MID-40,"Casesar Salad Wrap (Romaine Lettuce, Corn, Egg, Croutons)",450,4,22,15,800,BALANCED
+MID-41,Garden Salad with Ranch Dressing,250,3,18,5,450,BALANCED
+MID-42,Tuna Sandwich,350,4,15,20,650,BALANCED
+MID-43,Egg Sandwich,300,4,14,12,550,BALANCED
+MID-44,Ham and Cheese Sandwich,350,5,16,18,900,HIGH-CALORIE
+MID-45,Grilled Cheese Sandwich,400,4,22,14,750,BALANCED
+MID-46,Club Sandwich,550,6,25,28,1100,HIGH-CALORIE
+MID-47,Peanut Butter & Jelly Sandwich,380,15,16,10,350,BALANCED
+MID-48,Air-Fried Cheesy Garlic Pandesal,250,3,10,7,350,BALANCED
+MID-49,Corned Beef with Pandesal (2pcs),420,5,18,16,850,HIGH-CALORIE
+MID-50,Spam with Pandesal (2pcs),480,5,25,15,1050,HIGH-CALORIE
+MID-51,Siopao Asado (Large),380,12,10,12,600,BALANCED
+MID-52,Siopao Bola-bola (Large),420,8,15,14,700,BALANCED
+MID-53,Classic Ensaymada,350,15,18,6,300,BALANCED
+MID-54,Cheese Roll,280,10,14,5,250,BALANCED
+MID-55,Spanish Bread (1pc),180,8,6,3,150,BALANCED
+MID-56,Monay (1pc),150,4,2,4,180,LIGHT
+MID-57,Pan de Coco (1pc),200,12,7,3,150,BALANCED
+MID-58,Turon (Banana Spring Roll) (1pc),220,15,8,2,50,BALANCED
+MID-59,Banana Cue (1 stick),250,25,5,2,10,HIGH-CALORIE
+MID-60,Kamote Cue (1 Stick),280,20,8,2,15,HIGH-CALORIE
+MID-61,Maruya (Banana Fritter),240,12,10,2,100,BALANCED
+MID-62,Taho (Classic with Sago & Arnibal),180,25,3,6,20,HIGH-CALORIE
+MID-63,Puto Cheese (3 pcs),150,10,2,4,250,BALANCED
+MID-64,Kutsinta (3pcs),160,15,0,2,100,BALANCED
+MID-65,Bibingka (Classic),350,18,12,6,450,HIGH-CALORIE
+MID-66,Puto Bumbong (with Margarine & Coconut),280,15,10,3,150,BALANCED
+MID-67,Leche Flan (1 slice),250,22,12,6,80,HIGH-CALORIE
+MID-68,Halo-halo (Regular),380,45,10,8,150,HIGH-CALORIE
+MID-69,Buko Pandan (1 cup),300,25,15,4,100,HIGH-CALORIE
+MID-70,Fruit Salad (Creamy) (1 cup),280,30,12,3,80,HIGH-CALORIE
+MID-71,Maja Blanca (1 slice),220,15,10,3,50,BALANCED
+MID-72,Cassava Cake (1 slice),320,20,14,4,120,HIGH-CALORIE
+MID-73,Sapin-Sapin (1 slice),200,18,8,2,40,HIGH-CALORIE
+MID-74,Chocolate Cupcake,250,22,12,3,200,HIGH-CALORIE
+MID-75,Vanilla Muffin,300,20,14,4,250,HIGH-CALORIE
+MID-76,Brownie (1 square),220,18,10,3,150,HIGH-CALORIE
+MID-77,Chocolate Chip Cookie (1 large),200,15,10,2,180,BALANCED
+MID-78,Potato Chips (1 small bag),150,1,10,2,170,BALANCED
+MID-79,Mixed Nuts (1 small pack),200,1,18,7,120,BALANCED
+MID-80,Beef Empanada,300,4,15,10,400,BALANCED
+MID-81,Maxim Yellow Instant Coffee (1 stick),50,6,2,0,10,BALANCED
+MID-82,Maxim White Instant Coffee (1 stick),60,7,2,0,15,BALANCED
+MID-83,Iced Milo,150,20,3,4,100,HIGH-CALORIE
+MID-84,Bear Brand Adult Plus (1 glass),140,12,4,8,110,BALANCED
+MID-85,Black Coffee (No Sugar),5,0,0,0,5,LIGHT
+MID-86,Iced Latte (Whole Milk),150,12,8,8,120,BALANCED
+MID-87,Cappucino,120,10,6,6,100,BALANCED
+MID-88,Caramel Macchiato,250,35,8,8,150,HIGH-CALORIE
+MID-89,Mocha Frappe,400,55,15,6,250,HIGH-CALORIE
+MID-90,Matcha Latte,220,28,7,8,130,HIGH-CALORIE
+MID-91,Brown Sugar Boba Milktea,450,45,12,2,100,HIGH-CALORIE
+MID-92,Wintermelon Milktea,350,38,8,1,80,HIGH-CALORIE
+MID-93,Lemon Iced Tea (1 glass),120,30,0,0,20,HIGH-CALORIE
+MID-94,Orange Juice (1 glass),110,22,0,2,5,HIGH-CALORIE
+MID-95,Apple Juice (1 box),100,24,0,0,10,HIGH-CALORIE
+MID-96,Canned Cola,140,39,0,0,45,HIGH-CALORIE
+MID-97,Canned Lemon-Lime Soda,140,38,0,0,40,HIGH-CALORIE
+MID-98,Sports Drink (1 bottle),130,34,0,0,250,HIGH-CALORIE
+MID-99,Energy Drink (1 can),110,27,0,0,200,HIGH-CALORIE
+MID-100,Bottled Water,0,0,0,0,0,LIGHT
