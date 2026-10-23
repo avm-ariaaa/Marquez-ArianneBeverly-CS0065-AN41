@@ -1,7 +1,7 @@
 # Technical Assessment 3: Case-Based Reasoning System
 
 **Programmers:** Arianne Beverly V. Marquez & Lester Anthony G. Respicio  
-**Course:** CS0065 (Intelligent Systems) - FEU Institute of Technology  
+**Course:** CS0065 (Intelligent Systems) 
 
 ## 📌 About This Project
 
