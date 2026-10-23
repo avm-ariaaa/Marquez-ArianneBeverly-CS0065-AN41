@@ -1,7 +1,7 @@
 # Technical Assessment 2: Rule-Based Agent
 
 **Programmer:** Arianne Beverly Marquez  
-**Course:** CS0065 (Intelligent Systems) - FEU Institute of Technology  
+**Course:** CS0065 (Intelligent Systems)   
 
 ## 📌 About This Project
 This project implements a **Rule-Based Agent** (a vacuum cleaner robot) that operates in a multi-room environment. The agent perceives its current surroundings and makes decisions based on predefined rules:
