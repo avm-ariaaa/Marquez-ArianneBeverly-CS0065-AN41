@@ -2,7 +2,7 @@
 
 **Programmers:** Arianne Beverly Marquez & Lester Anthony Respicio
 
-**Course:** CS0065 (Intelligent Systems) - FEU Institute of Technology
+**Course:** CS0065 (Intelligent Systems)
 
 ## 📌 About This Project
 
