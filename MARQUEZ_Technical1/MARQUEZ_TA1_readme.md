@@ -2,7 +2,7 @@
 
 **Programmer:** Arianne Beverly Marquez
 
-**Course:** CS0065 (Intelligent Systems) - FEU Institute of Technology
+**Course:** CS0065 (Intelligent Systems) 
 
 ## 📌 About This Project
 
